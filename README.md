@@ -19,10 +19,12 @@
 <a href="https://instagram.com/crisdamacenaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crisdamacenaio" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisdamacena&show_icons=true&locale=en&layout=compact" alt="crisdamacena" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisdamacena&show_icons=true&locale=en" alt="crisdamacena" /></p>
-
+<table border="0">
+ <tr>
+    <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisdamacena&show_icons=true&locale=en&layout=compact" alt="crisdamacena" /></p>
+</td>
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisdamacena&show_icons=true&locale=en" alt="crisdamacena" /></p>
+</td>
+ </tr>
+</table>
 
