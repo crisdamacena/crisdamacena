@@ -2,7 +2,7 @@
 <h3 align="center">A Software developer and Computer Science student from Brazil</h3>
 
 
-<p align="center"> <a href="https://twitter.com/crisdamacena__" target="blank"><img src="https://img.shields.io/twitter/follow/crisdamacenaio?logo=twitter&style=for-the-badge" alt="crisdamacena__" /></a> </p>
+<p align="center"> <a href="https://twitter.com/crisdamacena__" target="blank"><img src="https://img.shields.io/twitter/follow/crisdamacena__?logo=twitter&style=for-the-badge" alt="crisdamacena__" /></a> </p>
 
 - 🌱 I’m currently learning **Java!**
 
