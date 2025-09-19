@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java!**
 
-- 👨‍💻 [SOON] All of my projects are available at [crisdamacena.com](https://crisdamacena.me/)
+- 👨‍💻 [SOON] All of my projects are available at [crisdamacena.me](https://crisdamacena.me/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
