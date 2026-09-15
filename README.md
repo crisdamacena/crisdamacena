@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cris Damacena</h1>
-<h3 align="center">A Software developer and Computer Science student from Brazil</h3>
+<h3 align="center">A Software developer from Brazil</h3>
 
 
 <p align="center"> <a href="https://twitter.com/crisdamacena__" target="blank"><img src="https://img.shields.io/twitter/follow/crisdamacena__?logo=twitter&style=for-the-badge" alt="crisdamacena__" /></a> </p>
