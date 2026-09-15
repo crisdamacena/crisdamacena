@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Java!**
 
-- 👨‍💻 [SOON] All of my projects are available at [crisdamacena.me](https://crisdamacena.me/)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/crisdamacena__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crisdamacenaio" height="30" width="40" /></a>
